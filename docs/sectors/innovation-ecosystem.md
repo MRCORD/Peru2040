@@ -83,7 +83,7 @@ mindmap
       Biodiversity monitoring
 ```
 
-**Market Opportunity**: $5B+ global mining technology market
+**Market Opportunity**: Peru's position as a global mining powerhouse provides a unique foundation for developing a world-class Mining Technology (MiningTech) sector. The global market for connected mining is projected to exceed $16 billion by 2030, presenting a significant opportunity for specialized Peruvian startups to develop and export solutions in automation, safety, and environmental management (Fortune Business Insights, 2024).
 **Competitive Advantage**: Deep mining expertise + proximity to major operations
 **Target Companies**: 500 MiningTech startups by 2040
 
@@ -91,7 +91,7 @@ mindmap
 - **Precision Agriculture**: IoT sensors, satellite monitoring, AI crop optimization
 - **Climate Adaptation**: Resilient crop varieties, weather prediction, water management
 - **Supply Chain**: Cold chain technology, logistics optimization, export facilitation
-- **Market Size**: $2B+ Latin American agtech market
+- **Market Size**: Peru's diverse agricultural landscape creates a natural laboratory for innovation in Agriculture Technology (AgroTech). The Latin American AgriTech market, valued at over $2 billion, is rapidly expanding, with opportunities in sustainable farming, crop efficiency, and supply chain logistics (IMARC Group, 2024).
 
 #### FinTech: Financial Innovation
 - **Digital Payments**: Mobile payment systems, cryptocurrency platforms
@@ -160,7 +160,7 @@ graph TD
 - **Energy Companies**: CleanTech and efficiency solutions
 
 #### International VC Partnerships
-- **Silicon Valley Funds**: Sequoia, Andreessen Horowitz partnerships
+- **Silicon Valley Funds**: Establish formal partnerships with world-class firms like Sequoia Capital and Andreessen Horowitz (a16z). These firms are noted for providing deep operational support to their portfolio companies beyond mere capital injection, a model Peru's national fund will emulate (Sequoia Capital, n.d.; Andreessen Horowitz, n.d.).
 - **European VCs**: Technology transfer and market access
 - **Asian Investment**: Chinese and Korean technology funds
 - **Regional Expansion**: Latin American cross-border investment
@@ -185,7 +185,7 @@ graph LR
 #### Incubator and Accelerator Network
 - **University Incubators**: 20 facilities across major universities
 - **Corporate Accelerators**: Industry-specific programs
-- **International Partnerships**: Techstars, Y Combinator expansion
+- **International Partnerships**: Foster the creation of "Venture Builders" or "Startup Factories." These organizations systematically build companies from the ground up by providing ideas, shared operational resources, and initial capital, drawing on successful international examples like Germany's Rocket Internet and New York's Betaworks (Diallo, 2015; García-Luengo, 2017).
 - **Specialized Programs**: Women entrepreneurs, indigenous innovation
 
 ### Digital Infrastructure
@@ -236,7 +236,7 @@ graph TD
 ### Talent Acquisition and Retention
 
 #### International Talent Attraction
-- **Startup Visas**: Fast-track visas for entrepreneurs and tech talent
+- **Startup Visas**: Launch a competitive "Digital Nomad Visa" to attract skilled international tech talent. Such programs have proven effective in boosting local economies by attracting high-income remote workers who contribute to local spending without taking local jobs (Choudhury, 2022). A streamlined startup visa will also be created for international founders who wish to establish their companies in Peru.
 - **Tax Incentives**: Reduced personal and corporate tax rates
 - **Quality of Life**: Modern infrastructure, international schools, healthcare
 - **Professional Networks**: Mentorship and peer support systems
@@ -274,10 +274,7 @@ graph LR
 ```
 
 ### International Research Partnerships
-- **MIT Collaboration**: Technology transfer and student exchange
-- **Stanford Partnership**: Entrepreneurship education and research
-- **Technical University of Munich**: Engineering and innovation programs
-- **University of Toronto**: AI research and development
+- **MIT, Stanford, Cambridge, ETH Zurich**: To accelerate research and development, Peru will establish formal partnerships with the world's leading technology universities, including MIT, Stanford, the University of Cambridge, and ETH Zurich. These institutions are consistently ranked at the top for computer science and AI, providing access to elite talent and cutting-edge research (QS World University Rankings, 2024).
 
 ## Government Policy Framework
 
@@ -416,6 +413,26 @@ gantt
     Regional Leadership  :c1, 2031, 4y
     Global Recognition  :c2, 2035, 5y
 ```
+
+---
+
+## References
+
+Andreessen Horowitz. (n.d.). *About a16z*. a16z. Retrieved from https://a16z.com/about/
+
+Choudhury, P. (2022, May 27). How "Digital Nomad" Visas Can Boost Local Economies. *Harvard Business Review*. Retrieved from https://hbr.org/2022/05/how-digital-nomad-visas-can-boost-local-economies
+
+Diallo, A. (2015, January 18). How 'venture builders' are changing the startup model. *VentureBeat*. Retrieved from https://venturebeat.com/business/how-venture-builders-are-changing-the-startup-model/
+
+Fortune Business Insights. (2024). *Connected Mining Market Size, Share, Growth & Report*. Retrieved from https://www.fortunebusinessinsights.com/connected-mining-market-102
+
+García-Luengo, J. (2017, August 29). Venture Building, a new model for entrepreneurship and innovation. *LinkedIn*. Retrieved from https://www.linkedin.com/pulse/venture-building-new-model-entrepreneurship-jorge-garcía-luengo
+
+IMARC Group. (2024). *Latin America Agriculture Technology (AgriTech) Market Report 2024-2032*. Retrieved from https://www.imarcgroup.com/latin-america-agriculture-technology-market
+
+QS World University Rankings. (2024). *QS World University Rankings by Subject 2024: Computer Science and Information Systems*. Retrieved from https://www.topuniversities.com/university-rankings/university-subject-rankings/2024/computer-science-information-systems
+
+Sequoia Capital. (n.d.). *Our Companies*. Sequoia Capital. Retrieved from https://www.sequoiacap.com/companies/
 
 ---
 

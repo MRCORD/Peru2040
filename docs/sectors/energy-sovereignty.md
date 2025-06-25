@@ -1,65 +1,49 @@
 # Energy Sovereignty Strategy
 
-This document outlines Peru's comprehensive energy sovereignty strategy, focusing on nuclear power development and renewable energy acceleration.
+Peru's energy sovereignty is the bedrock of its technological and economic transformation. This strategy outlines a two-pronged approach: the development of a secure, baseload nuclear power capability and the aggressive expansion of renewable energy resources to ensure a resilient, independent, and sustainable energy future.
 
-## Overview
+## 1. Nuclear Energy Development
 
-Energy independence represents the foundation of technological sovereignty. Peru's strategy combines rapid renewable energy expansion with strategic nuclear capability development to achieve energy security and support technological transformation.
+### 1.1 Technology and Partnership
+- **Technology Choice**: The strategy adopts South Korea's APR1400 reactor, a state-of-the-art Generation III+ pressurized water reactor.
+- **Strategic Rationale**: The selection is based on the proven success and operational record of the APR1400 at the UAE's Barakah Nuclear Power Plant, which demonstrated a rapid and effective implementation of a peaceful nuclear energy program under stringent international oversight (IAEA, 2023).
+- **Primary Partner**: Korea Electric Power Corporation (KEPCO)
+- **Partnership Scope**:
+  - Technology transfer and skills development
+  - Construction and operational support
+  - Joint R&D in advanced nuclear technologies
 
-## Nuclear Power Development
+### 1.2 Implementation Phases
+- **Phase 1: Regulatory Foundation (2025-2027)**: Establish the national nuclear regulatory body, develop legal frameworks, and secure international agreements.
+- **Phase 2: Site Selection and Preparation (2028-2030)**: Conduct geological surveys, complete environmental impact assessments, and begin infrastructure development.
+- **Phase 3: Construction and Commissioning (2031-2040)**: Build and bring online 8 GW of nuclear capacity, with the first reactor operational by 2033.
 
-### Strategic Framework
-- **Target Capacity**: 8 GW by 2040
-- **Technology Partner**: Korea (KEPCO model)
-- **Investment**: $25 billion over 15 years
-- **Timeline**: First reactor operational by 2033
+### 1.3 Safety and Security Framework
+- Full compliance with International Atomic Energy Agency (IAEA) standards.
+- Strict adherence to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT).
+- Development of robust, multi-layered national emergency response protocols.
 
-### Implementation Phases
+## 2. Renewable Energy Expansion
 
-#### Phase 1: Regulatory Foundation (2025-2027)
-- Establish Nuclear Regulatory Authority (FANR model)
-- International agreements and safety frameworks
-- Site selection and preparation
-- Human capital development
+### 2.1 Wind Power
+- **Target**: 8 GW installed capacity by 2040
+- **Partnerships**: Collaborate with leading European firms such as Vestas and Siemens Gamesa, which have a significant and established presence in developing large-scale wind projects across Latin America (GWEC, 2024).
+- **Focus Areas**: Coastal regions and Andean highlands
 
-#### Phase 2: Construction (2028-2035)
-- First reactor construction (2 GW)
-- Second reactor construction (2 GW)
-- Grid integration infrastructure
-- Fuel cycle development
+### 2.2 Solar Power
+- **Target**: 12 GW installed capacity by 2040
+- **Strategy**: Localize Chinese solar technology through joint ventures and technology transfer agreements. China is the undisputed global leader in solar PV manufacturing, accounting for over 80% of the world's production capacity, making it the most viable partner for establishing a domestic industrial base (IEA, 2023).
+- **Focus Areas**: Southern desert regions (Arequipa, Moquegua, Tacna)
 
-#### Phase 3: Expansion (2035-2040)
-- Third and fourth reactor construction (4 GW)
-- Export capability development
-- Advanced technology integration
-- Regional cooperation initiatives
+### 2.3 Hydroelectric Power
+- **Target**: Expand current capacity by 5 GW by 2040, focusing on modernizing existing plants and developing new, sustainable projects.
+- **Strategy**: Leverage Peru's vast and largely untapped hydroelectric potential, estimated at over 60 GW. This strategy will build upon Peru's existing installed capacity of approximately 5.5 GW to provide stable, baseload power (IHA, 2024).
+- **Focus Areas**: Eastern Andean slopes and river basins
 
-### Safety and Security Framework
-- International Atomic Energy Agency (IAEA) compliance
-- Non-proliferation treaty adherence
-- Advanced safety systems
-- Cybersecurity protection
-- Emergency response protocols
-
-## Renewable Energy Acceleration
-
-### Solar Energy Development
-- **Target**: 25 GW potential capacity
-- **Focus Areas**: Industrial zones, mining operations, export development
-- **Technology**: Chinese partnership for manufacturing localization
-- **Timeline**: 10 GW operational by 2030
-
-### Wind Energy Development
-- **Target**: 5+ GW coastal wind resources
-- **Technology Partners**: European companies (Vestas, Siemens)
-- **Integration**: Smart grid management systems
-- **Focus**: Coastal and highland installations
-
-### Hydroelectric Optimization
-- **Current**: 12 GW operational
-- **Target**: 20 GW by 2040
-- **Strategy**: Modernization + small-scale Andean development
-- **Innovation**: Pumped storage for grid stability
+## 3. Energy Storage and Grid Modernization
+- **Target**: Enhance grid stability and reliability to support the integration of variable renewables.
+- **Technology**: Deploy pumped-storage hydroelectricity (PSH) and battery energy storage systems (BESS).
+- **Modernization**: Invest in smart grid technologies, high-voltage transmission lines, and automated distribution systems to enhance efficiency and reliability.
 
 ## Energy Mix Targets by 2040
 
@@ -166,3 +150,13 @@ gantt
 ---
 
 *This document is part of the Peru 2040 strategic framework. For implementation details, see the corresponding sections in the financial and governance documentation.*
+
+## References
+
+Global Wind Energy Council (GWEC). (2024). *Global Wind Report 2024*. GWEC.
+
+International Atomic Energy Agency (IAEA). (2023). *Country Nuclear Power Profiles: United Arab Emirates*. IAEA.
+
+International Energy Agency (IEA). (2023). *National Survey Report of PV Power Applications in CHINA 2023*. IEA-PVPS.
+
+International Hydropower Association (IHA). (2024). *2024 World Hydropower Outlook*. IHA.

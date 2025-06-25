@@ -172,6 +172,8 @@ graph LR
 - International cooperation and standards participation
 
 #### Nuclear Regulatory Authority (FANR Model)
+The proposed nuclear regulatory body is modeled on the United Arab Emirates' Federal Authority for Nuclear Regulation (FANR). FANR is recognized as a best-practice example of a newly established, independent regulator that successfully implemented a peaceful nuclear energy program by adhering to the highest international standards of safety, security, and transparency (IAEA, 2018).
+
 ```mermaid
 graph TD
     A[Nuclear Authority Board] --> B[Director General]
@@ -198,10 +200,10 @@ graph TD
 ```
 
 **International Advisory Support**:
-- **UAE FANR**: Regulatory framework development assistance
-- **Korean KINS**: Safety review and oversight support
-- **IAEA**: International standards and best practices
-- **US NRC**: Advanced safety technologies and procedures
+- **UAE FANR**: Regulatory framework development assistance, drawing from their successful implementation model (IAEA, 2018).
+- **Korean KINS**: Safety review and oversight support, leveraging South Korea's extensive operational experience and robust safety record (WNA, 2023).
+- **IAEA**: International standards and best practices for safety, security, and non-proliferation.
+- **US NRC**: Advanced safety technologies and regulatory procedures.
 
 #### Sovereign Wealth Fund Authority
 ```mermaid
@@ -225,11 +227,13 @@ graph LR
 ```
 
 **Governance Model (Singapore GIC Adaptation)**:
-- **Board Independence**: Independent directors with international experience
-- **Professional Management**: Fund managers with global institutional experience
-- **Performance Standards**: Benchmark-relative and absolute return targets
-- **Risk Management**: Comprehensive risk framework and monitoring
+The governance of the Sovereign Wealth Fund is adapted from Singapore's GIC, a model renowned for its independence, professional management, and long-term perspective. This structure operates in alignment with the *Santiago Principles*, which establish the global standard for sovereign wealth fund governance, ensuring accountability, transparency, and sound investment practices (IFSWF, 2008; GIC, 2023).
+- **Board Independence**: Independent directors with international experience.
+- **Professional Management**: Fund managers with global institutional experience.
+- **Performance Standards**: Benchmark-relative and absolute return targets.
+- **Risk Management**: Comprehensive risk framework and monitoring.
 - **Transparency**: Annual public reporting with international standards
+- **Innovation Culture**: Continuous improvement and innovation in governance
 
 ## Legislative Branch Integration
 
@@ -532,6 +536,16 @@ graph TD
 - **Stakeholder Feedback**: Regular consultation with all stakeholder groups
 - **Adaptive Management**: Flexibility to adjust to changing circumstances
 - **Innovation Culture**: Continuous improvement and innovation in governance
+
+## References
+
+GIC. (2023). *Our Investment & Management Framework*. GIC. https://www.gic.com.sg/our-investment-and-management-framework/
+
+International Atomic Energy Agency. (2018). *IAEA Integrated Nuclear Infrastructure Review (INIR) Mission to the United Arab Emirates*. IAEA. https://www.iaea.org/newscenter/pressreleases/iaea-reviews-uaes-nuclear-power-infrastructure-development
+
+International Forum of Sovereign Wealth Funds. (2008). *Sovereign Wealth Funds: Generally Accepted Principles and Practices ("Santiago Principles")*. IFSWF. https://www.ifswf.org/santiago-principles-landing/santiago-principles
+
+World Nuclear Association. (2023, September). *Nuclear Power in South Korea*. https://world-nuclear.org/information-library/country-profiles/countries-o-s/south-korea.aspx
 
 ---
 

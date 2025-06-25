@@ -41,7 +41,7 @@ graph TD
 ```
 
 ### Computing Hardware Strategy
-- **GPU Procurement**: NVIDIA H100/H200 and future generations
+- **GPU Procurement**: The strategy centers on acquiring cutting-edge hardware, including NVIDIA's H200 series GPUs. These processors are specifically designed for large-scale generative AI and high-performance computing (HPC), offering significant advances in memory capacity and bandwidth essential for training and deploying large language models (NVIDIA, 2023).
 - **Storage Systems**: High-performance parallel storage
 - **Networking**: 400Gbps+ interconnects
 - **Power Infrastructure**: Direct renewable energy connections
@@ -52,13 +52,13 @@ graph TD
 ### Multilingual AI Capabilities
 
 #### Spanish Language Models
-- **Market Focus**: 500+ million Spanish speakers globally
+- **Market Focus**: The global Spanish-speaking population represents a significant market of nearly 500 million native speakers, making it the world's second-most spoken native language (Instituto Cervantes, 2023).
 - **Applications**: Business, education, government, creative content
 - **Competitive Advantage**: Cultural context and regional dialects
 - **Revenue Potential**: $3B+ annual exports
 
 #### Quechua Language Models
-- **Strategic Importance**: First indigenous language AI globally
+- **Strategic Importance**: Developing advanced AI models for Quechua aligns with global efforts to leverage technology for the preservation and revitalization of indigenous and low-resource languages. This initiative represents a significant contribution to digital inclusion and cultural heritage, supported by organizations like UNESCO (UNESCO, 2025).
 - **Cultural Significance**: Preservation and promotion of indigenous heritage
 - **Technical Innovation**: Low-resource language AI development
 - **International Interest**: Global research and cultural partnerships
@@ -162,7 +162,7 @@ graph LR
 - **Mission**: Advance AI research, develop indigenous capabilities
 - **Structure**: Government-university-industry collaboration
 - **Focus Areas**: Multilingual AI, low-resource languages, applied AI
-- **International Partnerships**: MIT, Stanford, Oxford, ETH Zurich
+- **International Partnerships**: The institute will forge partnerships with world-leading research universities, including MIT, Stanford, Oxford, and ETH Zurich, which are consistently ranked among the top institutions globally for computer science and AI research (CSRankings.org, 2024).
 
 ### University Integration Program
 - **Universidad Nacional Mayor de San Marcos**: AI research center
@@ -224,7 +224,7 @@ graph TD
 
 ### Data Infrastructure
 - **Government Data Lake**: Centralized public data repository
-- **Privacy Protection**: GDPR-compliant data handling
+- **Privacy Protection**: Data handling will adhere to international standards for data privacy and protection, such as the General Data Protection Regulation (GDPR) in Europe, to ensure user trust and facilitate international data-sharing agreements (European Parliament, 2016).
 - **Open Data Initiative**: Public datasets for research and innovation
 - **Cross-border Data**: Regional data sharing agreements
 
@@ -239,14 +239,14 @@ graph TD
 - **Market Access**: Chinese AI companies Peru operations
 
 #### US AI Research Collaboration
-- **Focus**: Responsible AI development, safety research
+- **Focus**: Responsible AI development, safety research, and ethical guidelines, aligning with frameworks proposed by leading US institutions and government initiatives.
 - **Institutions**: MIT, Stanford, Carnegie Mellon partnerships
 - **Funding**: $500M joint research programs
 - **Talent Exchange**: Researcher mobility programs
 
 #### European AI Governance Partnership
 - **Focus**: AI ethics, regulatory frameworks
-- **Partners**: EU institutions, national governments
+- **Partners**: EU institutions, national governments, guided by frameworks like the EU's AI Act, which sets a global standard for AI regulation and ethics (European Commission, 2021).
 - **Programs**: Regulatory harmonization, standards development
 - **Benefits**: Market access, credibility enhancement
 
@@ -266,7 +266,7 @@ graph LR
 
 ### Competitive Positioning
 - **Cost Advantage**: 30-50% lower costs than US/European providers
-- **Cultural Alignment**: Spanish-speaking markets, cultural understanding
+- **Cultural Alignment**: Spanish-speaking markets, cultural understanding. The strategy targets a Latin American AI market projected to grow significantly, leveraging shared language and cultural context to provide tailored solutions (Mordor Intelligence, 2023).
 - **Time Zone**: Favorable for North/South American collaboration
 - **Quality**: International standard AI capabilities
 
@@ -304,5 +304,21 @@ graph LR
 - **Influence**: International AI governance participation
 
 ---
+
+## References
+
+CSRankings.org. (2024). _Computer Science Rankings_. Retrieved from <https://csrankings.org/>
+
+European Commission. (2021). _Proposal for a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)_. <https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence-act>
+
+European Parliament and Council of the European Union. (2016). _Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)_. <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+
+Instituto Cervantes. (2023). _El español: una lengua viva. Informe 2023_. <https://cvc.cervantes.es/lengua/anuario/anuario_23/informes_ic/p01.htm>
+
+Mordor Intelligence. (2023). _Latin America Artificial Intelligence (AI) Market Size & Share Analysis_. <https://www.mordorintelligence.com/industry-reports/latin-america-artificial-intelligence-market>
+
+NVIDIA. (2023, November 13). _NVIDIA Supercharges Hopper, the World's Leading AI Computing Platform_. NVIDIA Newsroom. <https://nvidianews.nvidia.com/news/nvidia-supercharges-hopper-the-worlds-leading-ai-computing-platform>
+
+UNESCO. (2025, March 13). _National Consultation on Indigenous Languages: A Call for Preservation and Technology Integration_. <https://www.unesco.org/en/articles/national-consultation-indigenous-languages-call-preservation-and-technology-integration>
 
 *This document is part of the Peru 2040 strategic framework. Implementation requires coordination with energy infrastructure, financial planning, and international partnership development.*

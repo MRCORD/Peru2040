@@ -140,14 +140,14 @@ graph TD
 - **Mission**: Nuclear safety regulation and development promotion
 - **Structure**: Independent regulatory authority
 - **Leadership**: Nuclear safety expert with international experience
-- **International Support**: UAE FANR advisory assistance
+- **International Support**: The commission's establishment will be supported by advisory assistance from the UAE's Federal Authority for Nuclear Regulation (FANR), leveraging its globally recognized experience in rapidly developing a safe and secure nuclear program (IAEA, 2018).
 - **Staff**: 100 nuclear professionals by 2027
 
 #### Sovereign Wealth Fund Authority
 - **Mission**: Professional management of national investment fund
 - **Structure**: Independent authority with board governance
 - **Leadership**: International fund management professionals
-- **Governance**: Singapore GIC model adaptation
+- **Governance**: The governance structure will be adapted from Singapore's GIC model, which is recognized for its professional management and adherence to the Santiago Principles for transparency and accountability (GIC, 2023; IFSWF, 2008).
 - **Initial Capitalization**: $5B from mining royalties and emergency appropriation
 
 ### Initial Investment Mobilization
@@ -213,7 +213,7 @@ graph TD
 - **Power**: 50 MW dedicated renewable energy connection
 - **Investment**: $800M construction and equipment
 - **Timeline**: 18 months construction, operational by end 2026
-- **Technology Partners**: NVIDIA hardware, Chinese construction
+- **Technology Partners**: This partnership leverages China's extensive experience in large-scale infrastructure construction and NVIDIA's market-leading GPU technology, which is critical for high-performance AI data centers (IoT Analytics, 2025).
 
 #### Nuclear Site Preparation
 - **Site Selection**: Coastal location with seismic safety
@@ -225,6 +225,7 @@ graph TD
 ### International Partnership Formalization
 
 #### Korea Nuclear Technology Partnership
+The partnership centers on the APR1400 reactor, a Generation III+ design with advanced safety features that has been successfully licensed and deployed in multiple countries (KEPCO, n.d.).
 ```mermaid
 graph LR
     A[Korea Partnership] --> B[Technology Transfer]
@@ -263,6 +264,7 @@ graph LR
 - **Timeline**: 5-year strategic partnership with renewal options
 
 #### Singapore Financial Services Cooperation
+This cooperation leverages Singapore's status as a leading global financial hub and its expertise in FinTech development, cultivated through forward-looking regulation and strong government support (PwC, 2023).
 - **Sovereign Wealth Fund**: Management advisory and co-investment
 - **FinTech Development**: Technology transfer and market access
 - **Regulatory Cooperation**: Financial services regulatory harmonization
@@ -493,5 +495,19 @@ By end of 2027, Peru will have established:
 - **Economic Transformation**: GDP structure shift toward technology
 
 ---
+
+## References
+
+GIC. (2023). _Our Investment & Management Framework_. GIC.
+
+International Atomic Energy Agency. (2018). _IAEA Integrated Nuclear Infrastructure Review (INIR) Mission to the United Arab Emirates_. IAEA.
+
+International Forum of Sovereign Wealth Funds. (2008). _Sovereign Wealth Funds: Generally Accepted Principles and Practices ("Santiago Principles")_.
+
+IoT Analytics. (2025). _Generative AI Market Report 2025–2030_.
+
+Korea Electric Power Corporation. (n.d.). _The APR1400 Reactor_. KEPCO. Retrieved from https://home.kepco.co.kr/kepco/EN/G/htmlView/ENGBHP00102.do
+
+PwC. (2023). _FinTech innovation in Singapore: Sustaining growth in uncertain times_. PwC Singapore.
 
 *This document establishes the foundation for Peru's technological transformation. Success in Phase 1 is critical for achieving the ambitious goals of technological sovereignty and economic transformation outlined in the Peru 2040 strategy.*

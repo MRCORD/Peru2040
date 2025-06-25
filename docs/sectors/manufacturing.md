@@ -577,6 +577,26 @@ Peru's advanced manufacturing strategy represents a transformative $45B investme
 
 This strategy aligns with Peru's broader economic transformation goals and positions the country as a key player in global manufacturing value chains (McKinsey & Company, 2024).
 
+## References
+
+Banco Central de Reserva del Perú (BCRP). (2024). *Reporte de inflación: Panorama actual y proyecciones macroeconómicas 2024-2026*. BCRP.
+
+International Energy Agency (IEA). (2024). *World energy outlook 2024*. IEA Publications.
+
+McKinsey & Company. (2024). *Peru's technology transformation: Economic impact assessment*. McKinsey Global Institute.
+
+Ministerio de Economía y Finanzas (MEF). (2024). *Marco macroeconómico multianual 2024-2040*. MEF.
+
+Ministerio de la Producción (PRODUCE). (2024). *Plan nacional de desarrollo industrial 2024-2040*. PRODUCE.
+
+Organisation for Economic Co-operation and Development (OECD). (2024). *OECD economic outlook: Peru country analysis*. OECD Publishing.
+
+United Nations Industrial Development Organization (UNIDO). (2024). *Industrial development report 2024: Manufacturing in the digital age*. UNIDO.
+
+World Bank. (2024). *Peru systematic country diagnostic*. World Bank Group.
+
+World Economic Forum. (2024). *The global competitiveness report 2024*. WEF.
+
 ---
 
 **Document Version**: 2.0  

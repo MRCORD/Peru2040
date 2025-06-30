@@ -176,7 +176,7 @@ We welcome input from:
 
 ## 🚀 Getting Started
 
-1. **Read the full strategy** in README.md
+1. **Read the full strategy** in [docs/peru-2040-white-paper.md](docs/peru-2040-white-paper.md)
 2. **Join discussions** in the Discussions tab
 3. **Review open issues** for contribution opportunities
 4. **Introduce yourself** and your expertise areas

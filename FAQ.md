@@ -135,7 +135,7 @@ Don't worry! GitHub might seem technical, but participation is straightforward:
 
 **For complete beginners:**
 1. **Create GitHub account** (free, takes 2 minutes)
-2. **Read our strategy** in the [README.md](README.md) file
+2. **Read our strategy** overview in [README.md](README.md) or the complete strategy in [docs/peru-2040-white-paper.md](docs/peru-2040-white-paper.md)
 3. **Comment on issues** that match your expertise - just like commenting on any website
 4. **Join discussions** in the Discussions tab for less formal conversation
 

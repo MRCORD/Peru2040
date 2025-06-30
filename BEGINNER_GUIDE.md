@@ -442,7 +442,7 @@ graph TD
 
 ```mermaid
 graph TD
-    A[🎯 Step 1: Create GitHub Account] --> B[📖 Step 2: Read README.md]
+    A[🎯 Step 1: Create GitHub Account] --> B[📖 Step 2: Read README.md Overview]
     B --> C[👀 Step 3: Browse 2-3 Issues]
     C --> D[💬 Step 4: Make Your First Comment]
     D --> E[🔔 Step 5: Turn on Notifications]

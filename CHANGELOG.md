@@ -9,11 +9,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Planned
 - Phase 2 and Phase 3 implementation documentation
-- International partnership detailed agreements
 - Risk mitigation detailed strategies
 - Additional sector-specific documentation
 - Regional implementation plans
 - Performance monitoring frameworks
+
+## [1.1.0] - 2024-12-30
+
+### Changed
+- **README.md Restructure**: Transformed from 2,376-line academic white paper to concise open-source project overview following industry best practices
+- **Documentation Organization**: Moved comprehensive strategic content to `docs/peru-2040-white-paper.md` for better navigation and accessibility
+- **Project Structure**: Reorganized to follow open source README best practices with clear navigation and entry points
+
+### Added
+- **Executive Summary**: Created `docs/executive-summary.md` providing 5-page strategic overview with key findings, investment requirements, and implementation timeline
+- **International Partnerships Framework**: Added `docs/international-partnerships.md` detailing strategic cooperation with Korea, China, Singapore, and UAE
+- **Security Policy**: Added `SECURITY.md` establishing security practices and vulnerability reporting procedures for collaborative development
+- **Improved Navigation**: Enhanced cross-document linking and reference structure for better user experience
+
+### Fixed
+- **Broken Links**: Updated all internal references to reflect new documentation structure
+- **Contributing Guidelines**: Updated CONTRIBUTING.md to reference correct documentation locations
+- **FAQ References**: Updated FAQ.md with proper links to both overview and detailed strategy documents
+- **Beginner Guide**: Enhanced BEGINNER_GUIDE.md navigation references
+- **Contact Information**: Replaced fictional email with real contact methods using GitHub issues and maintainer tagging
 
 ## [1.0.0] - 2024-12-25
 
@@ -26,7 +45,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Code of conduct and contributing guidelines
 
 #### Core Strategic Documentation
-- **README.md**: Complete 60,000+ word strategic white paper
+- **White Paper**: Complete 60,000+ word strategic white paper (moved to docs/peru-2040-white-paper.md in v1.1.0)
+- **README.md**: Concise open-source project overview and navigation (restructured in v1.1.0)
 - **Energy Sovereignty Strategy**: Nuclear + renewable energy framework
 - **AI & Computing Strategy**: Regional technological leadership plan  
 - **Innovation Ecosystem Strategy**: Startup and technology development

@@ -137,7 +137,7 @@ We're building a global community with perspectives from:
 ## 📈 **How to Become a Contributor**
 
 ### **Getting Started (5 minutes)**
-1. **Review the Strategy**: Read [README.md](README.md) for overview
+1. **Review the Strategy**: Read [README.md](README.md) for overview and [docs/peru-2040-white-paper.md](docs/peru-2040-white-paper.md) for complete details
 2. **Check Open Issues**: Look at [current issues](../../issues) in your expertise area
 3. **Join Discussions**: Participate in [GitHub Discussions](../../discussions)
 

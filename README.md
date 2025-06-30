@@ -11,6 +11,9 @@
 
 Peru 2040 is a comprehensive strategic framework to transform Peru from a commodity-dependent economy into a high-technology, high-income nation by 2040. This open-source approach enables collaborative development of national strategy through evidence-based planning and transparent governance.
 
+> **⚡ CRITICAL TIMELINE: 15.5 Years Remaining**  
+> **Time is non-negotiable.** As of June 30, 2025, the strategy phase is complete and implementation must begin immediately. Every month of delay now directly increases costs and reduces achievable outcomes. The window for planning is closed—this is the moment for action.
+
 **Key Transformation Areas:**
 - 🤖 Artificial Intelligence & Computing Infrastructure  
 - ⚡ Nuclear Energy & Renewable Systems
@@ -22,11 +25,44 @@ Peru 2040 is a comprehensive strategic framework to transform Peru from a commod
 
 | Document | Description |
 |----------|-------------|
+| [**⚡ URGENCY TRACKER**](URGENCY_TRACKER.md) | **Time constraint analysis & daily impact** |
 | [**📖 Full White Paper**](docs/peru-2040-white-paper.md) | Complete strategic plan (2,376 pages) |
 | [**🚀 Getting Started**](BEGINNER_GUIDE.md) | New contributor guide |
 | [**🤝 Contributing**](CONTRIBUTING.md) | How to contribute |
 | [**❓ FAQ**](FAQ.md) | Frequently asked questions |
 | [**🗺️ Roadmap**](ROADMAP.md) | Implementation timeline |
+
+## ⏰ Critical Timeline - Implementation Phase Begins
+
+```mermaid
+gantt
+    title Peru 2040 Critical Implementation Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
+    
+    section Implementation Phase (ACTIVE)
+    Implementation Start     :active, 2025-07-01, 2027-12-31
+    Constitutional Framework :crit, 2025-07-01, 2027-12-31
+    Nuclear Program Launch   :crit, 2025-09-01, 2027-12-31
+    AI Infrastructure Start  :crit, 2025-07-01, 2027-12-31
+    
+    section Phase 2: Acceleration  
+    Technology Hub Development :2028-01-01, 2032-12-31
+    Manufacturing Scale-up     :2028-01-01, 2032-12-31
+    
+    section Phase 3: Dominance
+    Regional Leadership       :2033-01-01, 2040-12-31
+    Full Transformation      :milestone, 2040-12-31, 1d
+```
+
+## 📈 Current Status
+
+- **Phase**: Implementation Phase (ACTIVE) ⚡ **URGENT**
+- **Contributors**: [See Contributors](CONTRIBUTORS.md)
+- **Last Updated**: June 2025
+- **⏰ CRITICAL DEADLINE**: Phase 1 Implementation (2025-2027)
+- **🚨 TIME REMAINING**: 15.5 years to achieve full transformation
+- **📊 Implementation Window**: Immediate—no further delay possible
 
 ## 🎯 Target Outcomes by 2040
 
@@ -48,25 +84,28 @@ graph TD
 
 ## 🚀 How to Get Involved
 
+> **🔥 URGENT CONTRIBUTIONS NEEDED**  
+> We need expert input **NOW**. Implementation must begin immediately or we risk missing critical technology windows. Your expertise today determines Peru's position in 2040.
+
 ### For Policy Experts & Researchers
-- Review and enhance the [strategic framework](docs/peru-2040-white-paper.md)
-- Contribute economic modeling and benchmarking data
-- Provide international case studies and best practices
+- **PRIORITY**: Support implementation monitoring and evaluation
+- **URGENT**: Provide real-time feedback on policy execution
+- **CRITICAL**: Document lessons learned for future phases
 
 ### For Technologists
-- Design implementation frameworks for AI and computing infrastructure
-- Contribute to energy transition planning
-- Develop governance models for emerging technologies
+- **PRIORITY**: Lead deployment of AI and computing infrastructure
+- **URGENT**: Oversee energy transition execution
+- **CRITICAL**: Implement governance models for emerging technologies
 
 ### For Economists & Analysts  
-- Validate financial projections and investment models
-- Enhance risk assessment frameworks
-- Contribute comparative economic analysis
+- **PRIORITY**: Track financial performance and investment flows
+- **URGENT**: Update risk assessment frameworks as implementation proceeds
+- **CRITICAL**: Benchmark progress against international comparators
 
 ### For All Contributors
-- Join discussions in [Issues](../../issues)
-- Improve documentation and accessibility
-- Share insights from your expertise area
+- **🚨 HIGH IMPACT**: Join discussions in [Issues](../../issues)
+- **⏰ TIME-SENSITIVE**: Improve documentation and accessibility
+- **💡 EXPERTISE NEEDED**: Share insights from your expertise area
 
 ## 📚 Key Documents
 
@@ -96,13 +135,6 @@ Traditional national planning happens behind closed doors. We believe:
 - **🐛 Issues**: Report problems or suggest improvements
 - **🔧 Pull Requests**: Contribute directly to the strategy
 - **📧 Contact**: Create an issue or tag [@MRCORD](https://github.com/MRCORD) for direct contact
-
-## 📈 Current Status
-
-- **Phase**: Strategy Development & Community Building
-- **Contributors**: [See Contributors](CONTRIBUTORS.md)
-- **Last Updated**: December 2024
-- **Next Milestone**: Phase 1 Implementation Plan (Q1 2025)
 
 ## 📜 License
 

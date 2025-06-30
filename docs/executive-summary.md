@@ -5,7 +5,9 @@
 
 Peru stands at a historic crossroads, possessing the natural resource wealth and economic foundation necessary to transform from a commodity-dependent economy into Latin America's dominant technology powerhouse by 2040. This strategic framework leverages Peru's $250+ billion mineral resource base to fund a comprehensive technological transformation that will generate $150+ billion in annual technology economy value while ensuring energy independence and regional leadership (USGS, 2024; Banco Central de Reserva del Perú, 2024).
 
-The Peru 2040 framework represents the first open-source approach to national strategic planning, enabling transparent, collaborative development of evidenced-based policy through democratic participation and international expert consultation.
+**CRITICAL TIMING CONSTRAINT: This transformation must begin immediately.** Time is the only non-negotiable variable in Peru's development equation. Starting in mid-2024 with 16.5 years remaining until 2040, every month of delay compounds implementation costs and reduces achievable outcomes. Technology leadership windows are rapidly closing—China's advancing AI dominance, shifting nuclear energy alliances, and accelerating Latin American digital transformations create a "now or never" moment for Peru's technological sovereignty (World Economic Forum, 2024).
+
+The Peru 2040 framework represents the first open-source approach to national strategic planning, enabling transparent, collaborative development of evidenced-based policy through democratic participation and international expert consultation. Starting NOW in June 2024, this urgency demands immediate collaborative action from global experts, policymakers, and technologists to finalize implementation frameworks by Q2 2025.
 
 ### Key Findings
 

@@ -6,6 +6,9 @@ Welcome to Peru's most ambitious strategic planning initiative! This open-source
 
 Transform Peru into Latin America's dominant technological, energy, and economic power by 2040 through evidence-based strategic planning and collaborative refinement.
 
+> **⚡ CRITICAL URGENCY: TIME IS THE NON-NEGOTIABLE CONSTRAINT**  
+> **Only 16 years remain until 2040.** In project management terms, while scope and budget can be adjusted, **TIME CANNOT**. Every month of delay compounds costs exponentially and reduces achievable outcomes. We must finalize core strategy by Q1 2025 and begin implementation by Q2 2025. **Your contribution today directly impacts Peru's 2040 position. We cannot afford to wait.**
+
 ## 🤝 How to Contribute
 
 ### 1. Research and Evidence Standards
@@ -48,15 +51,15 @@ Transform Peru into Latin America's dominant technological, energy, and economic
 
 ## 📋 Areas Needing Contribution
 
-### 🔥 High Priority Needs
-- [ ] **Detailed sector implementation plans** with specific milestones
-- [ ] **International partnership frameworks** with legal structures
-- [ ] **Enhanced risk mitigation strategies** with contingency plans
-- [ ] **Financial model validation** with sensitivity analysis
-- [ ] **Timeline feasibility analysis** with critical path mapping
-- [ ] **Regional distribution strategies** ensuring nationwide benefits
-- [ ] **Environmental impact assessments** for all major projects
-- [ ] **Social acceptance strategies** for technology transformation
+### 🔥 HIGH PRIORITY NEEDS - DEADLINE: JANUARY 2025
+- [ ] **Detailed sector implementation plans** with specific milestones ⚡ **URGENT**
+- [ ] **International partnership frameworks** with legal structures ⚡ **URGENT**  
+- [ ] **Enhanced risk mitigation strategies** with contingency plans ⚡ **URGENT**
+- [ ] **Financial model validation** with sensitivity analysis ⚡ **CRITICAL**
+- [ ] **Timeline feasibility analysis** with critical path mapping ⚡ **CRITICAL**
+- [ ] **Regional distribution strategies** ensuring nationwide benefits ⚡ **URGENT**
+- [ ] **Environmental impact assessments** for all major projects ⚡ **URGENT**
+- [ ] **Social acceptance strategies** for technology transformation ⚡ **CRITICAL**
 
 ### 🔬 Research Contributions Needed
 - [ ] **Comparative policy analysis** with similar transformation countries
@@ -174,14 +177,16 @@ We welcome input from:
 - **Evidence-Based**: Ground discussions in facts and credible sources
 - **National Interest**: Prioritize Peru's long-term development over personal or political agendas
 
-## 🚀 Getting Started
+## 🚀 Getting Started - IMMEDIATE ACTION REQUIRED
 
-1. **Read the full strategy** in [docs/peru-2040-white-paper.md](docs/peru-2040-white-paper.md)
-2. **Join discussions** in the Discussions tab
-3. **Review open issues** for contribution opportunities
-4. **Introduce yourself** and your expertise areas
-5. **Start with small contributions** to understand the process
-6. **Propose larger enhancements** as you become familiar with the project
+1. **⚡ URGENT**: **Read the full strategy** in [docs/peru-2040-white-paper.md](docs/peru-2040-white-paper.md)
+2. **🔥 PRIORITY**: **Join discussions** in the Discussions tab
+3. **⏰ TIME-SENSITIVE**: **Review open issues** for contribution opportunities
+4. **🚨 CRITICAL**: **Introduce yourself** and your expertise areas
+5. **📅 DEADLINE-DRIVEN**: **Start with small contributions** to understand the process
+6. **🎯 IMPACT-FOCUSED**: **Propose larger enhancements** as you become familiar with the project
+
+> **Every hour counts. Peru's future depends on completing this strategy by Q1 2025. Your expertise is needed NOW, not later.**
 
 ## 📞 Questions?
 
